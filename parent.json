@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T22:21:14.811Z",
+  "generatedAt": "2026-09-06T00:21:11.872Z",
   "videos": [
     {
       "timestamp": "2026-09-05",
@@ -146,6 +146,138 @@
       "profile": "Both",
       "retentionDays": 60,
       "keyword": "scooby",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-05",
+      "firstSeen": "2026-09-05",
+      "title": "Mr. Bean Becomes Mrs. Wicket?s Housekeeper! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=h4A4pkNGFWM",
+      "videoId": "h4A4pkNGFWM",
+      "thumbnail": "https://i1.ytimg.com/vi/h4A4pkNGFWM/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-05",
+      "firstSeen": "2026-09-05",
+      "title": "Grandpa Brouhaha | Full Episode | Get Ace | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=lkzGrdfxLUg",
+      "videoId": "lkzGrdfxLUg",
+      "thumbnail": "https://i1.ytimg.com/vi/lkzGrdfxLUg/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-05",
+      "firstSeen": "2026-09-05",
+      "title": "Ka-Boom with a View | Full Episode | Nerds and Monsters | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=ugANegGV43I",
+      "videoId": "ugANegGV43I",
+      "thumbnail": "https://i2.ytimg.com/vi/ugANegGV43I/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-05",
+      "firstSeen": "2026-09-05",
+      "title": "Lord of the Board | Full Episode | Get Ace | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=jye6dThccgo",
+      "videoId": "jye6dThccgo",
+      "thumbnail": "https://i3.ytimg.com/vi/jye6dThccgo/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-05",
+      "firstSeen": "2026-09-05",
+      "title": "The Marriage Ref | Full Episode | Nerds and Monsters | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=AeaQ2CEQ0-k",
+      "videoId": "AeaQ2CEQ0-k",
+      "thumbnail": "https://i2.ytimg.com/vi/AeaQ2CEQ0-k/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-05",
+      "firstSeen": "2026-09-05",
+      "title": "Chemistry Science | Amazing Science Experiments At Home | Science Max",
+      "videoUrl": "https://www.youtube.com/watch?v=ICfSoHDphIs",
+      "videoId": "ICfSoHDphIs",
+      "thumbnail": "https://i2.ytimg.com/vi/ICfSoHDphIs/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
