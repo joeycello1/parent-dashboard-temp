@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T22:21:14.019Z",
+  "generatedAt": "2026-09-07T00:21:13.681Z",
   "videos": [
     {
       "timestamp": "2026-09-06",
@@ -102,6 +102,28 @@
       "profile": "Both",
       "retentionDays": 15,
       "keyword": "spongebob",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-06",
+      "firstSeen": "2026-09-06",
+      "title": "? Weird Body Facts Explained! | Sleep, Germs & Senses | Finding Stuff Out | Scholastic After School",
+      "videoUrl": "https://www.youtube.com/watch?v=_1kX5ggqTjY",
+      "videoId": "_1kX5ggqTjY",
+      "thumbnail": "https://i4.ytimg.com/vi/_1kX5ggqTjY/hqdefault.jpg",
+      "channelID": "UC8u2mS-ZGT2PldXH8-zvx3A",
+      "channelName": "Scholastic After School",
+      "category": "Science",
+      "profile": "Both",
+      "retentionDays": 60,
+      "keyword": "science",
       "watched": {
         "jonah": false,
         "kieran": false
