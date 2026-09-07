@@ -1,6 +1,94 @@
 {
-  "generatedAt": "2026-09-07T16:21:11.426Z",
+  "generatedAt": "2026-09-07T18:21:13.226Z",
   "videos": [
+    {
+      "timestamp": "2026-09-07",
+      "firstSeen": "2026-09-07",
+      "title": "How To Draw A Forklift",
+      "videoUrl": "https://www.youtube.com/watch?v=LNAH9vztxmg",
+      "videoId": "LNAH9vztxmg",
+      "thumbnail": "https://i1.ytimg.com/vi/LNAH9vztxmg/hqdefault.jpg",
+      "channelID": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "channelName": "Art for Kids",
+      "category": "Stuff to Know",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "art",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-07",
+      "firstSeen": "2026-09-07",
+      "title": "Mr. Bean Gets Stuck in the Mud! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=w5Kh8s7rvsQ",
+      "videoId": "w5Kh8s7rvsQ",
+      "thumbnail": "https://i4.ytimg.com/vi/w5Kh8s7rvsQ/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-07",
+      "firstSeen": "2026-09-07",
+      "title": "Mr. Bean Has WAY Too Much Housework! | Mr Bean Adventures",
+      "videoUrl": "https://www.youtube.com/watch?v=Ud0K9XJiG_Q",
+      "videoId": "Ud0K9XJiG_Q",
+      "thumbnail": "https://i2.ytimg.com/vi/Ud0K9XJiG_Q/hqdefault.jpg",
+      "channelID": "UC977n5nXRn8MDuGQjwxkOLw",
+      "channelName": "Cartoons for Kids - Mr Bean",
+      "category": "Mr Bean",
+      "profile": "Both",
+      "retentionDays": 30,
+      "keyword": "mr bean",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
+    {
+      "timestamp": "2026-09-07",
+      "firstSeen": "2026-09-07",
+      "title": "Your Brain's Hidden Secrets ? | Brain Games Full Episode Compilation | Nat Geo Kids",
+      "videoUrl": "https://www.youtube.com/watch?v=zwNXQ6fNnno",
+      "videoId": "zwNXQ6fNnno",
+      "thumbnail": "https://i3.ytimg.com/vi/zwNXQ6fNnno/hqdefault.jpg",
+      "channelID": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "channelName": "Nat Geo Kids",
+      "category": "Nature",
+      "profile": "Both",
+      "retentionDays": 80,
+      "keyword": "nat geo, educational, science",
+      "watched": {
+        "jonah": false,
+        "kieran": false
+      },
+      "rating": {
+        "jonah": "",
+        "kieran": ""
+      }
+    },
     {
       "timestamp": "2026-09-06",
       "firstSeen": "2026-09-06",
